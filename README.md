@@ -1,2 +1,2 @@
-# DenisKed.githab.io
+# DenisKed.github.io
 мой первый опубликованный сайт
